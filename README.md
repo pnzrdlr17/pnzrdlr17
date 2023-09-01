@@ -17,7 +17,7 @@
 
 <p>
   <p>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes" > <img align="right" width="61%" alt = "" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming"></a>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes" > <img align="right" width="60%" alt = "" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming"></a>
      <h2><img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=7.2%> Competitive Programming </h2>
     <p>
 	    &emsp; 
