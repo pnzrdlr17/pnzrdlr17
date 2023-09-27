@@ -1,6 +1,5 @@
-#### <h1 align="left">Hi , I'm Fayez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <a href="https://git.io/typing-svg"><img width = "47%"  align="right" alt="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=900&color=36BCF7FF&vCenter=true&lines=Computer+Science+Student;Competitive+Programmer;Specialist+on+Codeforces;Division+2+on+Codechef+(4+Stars);Always+learning+new+things"/></a></h1>
-
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+<a href="https://git.io/typing-svg"><img width = "47%"  align="right" alt="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=900&color=36BCF7FF&vCenter=true&lines=Computer+Science+Student;Competitive+Programmer;Specialist+on+Codeforces;Division+2+on+Codechef+(4+Stars);Always+learning+new+things"/></a>
+# <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> Hi , I'm Fayez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 
 <img align="right" src="https://github.com/pnzrdlr17/pnzrdlr17/assets/81994166/92e2fc88-69bd-45ed-9b46-263a68a45e69" width=30%>
 
