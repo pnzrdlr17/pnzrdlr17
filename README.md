@@ -7,7 +7,7 @@
 - :school: I am a `Final Year Under Graduate` from the [School of Engineering Sciences & Technology](https://jamiahamdard.edu/Department/Deptindex.aspx?page=a&ItemID=qo&nDeptID=ms) at [Jamia Hamdard](https://jamiahamdard.edu/).
 - :trophy: #3 `Elite Coders Compete 2.0`
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
-- :student: I’m currently learning Web development using `MERN-stack`.
+- :student: I’m currently learning Full Stack Development.
 - :nerd_face: I'm quite interested in the `Theoretical` aspects of `Computer Science`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1kiCNo4c6CEbnwvFd-LJgxL4sS0FoWCz-/view?usp=drive_link).
 - :boom: You can visit [MY WEBSITE](https://pnzrdlr17.github.io/portfolio-website/).
