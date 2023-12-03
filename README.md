@@ -8,7 +8,7 @@
 - :trophy: #3 `Elite Coders Compete 2.0`
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - :student: I’m currently learning Web development using `MERN-stack`.
-- :nerd_face: Exploring the Boundless Realms of `Theoretical Computer Science`.
+- :nerd_face: I'm quite interested in the `Theoretical` aspects of `Computer Science`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1kiCNo4c6CEbnwvFd-LJgxL4sS0FoWCz-/view?usp=drive_link).
 - :boom: You can visit [MY WEBSITE](https://pnzrdlr17.github.io/portfolio-website/).
 <!-- - :technologist: I love using Software to solve every `Problem`. -->
@@ -28,14 +28,19 @@
     </p>
     <h2><img src="https://github.com/pnzrdlr17/pnzrdlr17/assets/81994166/1edf3f5b-2ca8-4886-83ee-5f3dc2183ab0" width=7.2%> Languages and Tools </h2>
     <p>
-    <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">&emsp;
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">&emsp;
-    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">&emsp;
-    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">&emsp;
-    <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="50">&emsp;
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">&emsp;
-    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">&emsp;
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">&emsp;
+    	<img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">&emsp;
+    	<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">&emsp;
+    	<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"   width="50">&emsp;
+	<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"   width="50">&emsp;
+     	<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">&emsp;
+	<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">&emsp;
+	<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">&emsp;
+	<img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="50">&emsp;    
+	<img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50">&emsp;
+    	<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">&emsp;
+     	<img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="50">&emsp;
+    	<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">&emsp;
+	<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">&emsp;
     </p>
   </p>
   <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="8%">Connect with me</h2>
@@ -44,7 +49,7 @@
 	  &emsp; 
     <a href="mailto:fayez532552@gmail.com"><img width="50" src="https://github.com/pnzrdlr17/pnzrdlr17/assets/81994166/d043651e-5719-4e29-9af8-28394ecf1c7b"/></a>
     &emsp;
-    <a href="https://www.linkedin.com/in/fayez-anwar-84b846245/"><img width="50" src="https://github.com/pnzrdlr17/pnzrdlr17/assets/81994166/bfb8de9c-fdab-484b-b611-1f1bf5b5ad60"></a>
+    <a href="https://www.linkedin.com/in/fayez-anwar/"><img width="50" src="https://github.com/pnzrdlr17/pnzrdlr17/assets/81994166/bfb8de9c-fdab-484b-b611-1f1bf5b5ad60"></a>
     &emsp;
     <a href="https://github.com/pnzrdlr17"><img width="50" src="https://github.com/pnzrdlr17/pnzrdlr17/assets/81994166/23b83b2b-b786-45fd-9189-32dc45492283"></a>
     &emsp;
