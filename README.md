@@ -40,7 +40,7 @@
     	<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">&emsp;
      	<img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="50">&emsp;
     	<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">&emsp;
-	<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">&emsp;
+<!-- 	<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">&emsp; -->
     </p>
   </p>
   <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="8%">Connect with me</h2>
